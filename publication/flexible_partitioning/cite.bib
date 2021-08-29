@@ -1,0 +1,37 @@
+@article{10.1007/s10619-017-7214-0,
+author = {Koumarelas, Ioannis and Naskos, Athanasios and Gounaris, Anastasios},
+title = {Flexible Partitioning for Selective Binary Theta-Joins in a Massively Parallel Setting},
+year = {2018},
+issue_date = {June      2018},
+publisher = {Kluwer Academic Publishers},
+address = {USA},
+volume = {36},
+number = {2},
+issn = {0926-8782},
+url = {https://doi.org/10.1007/s10619-017-7214-0},
+doi = {10.1007/s10619-017-7214-0},
+abstract = {Efficient join processing plays an important role in big data analysis. In this work,
+we focus on generic theta joins in a massively parallel environment, such as MapReduce
+and Spark. Theta joins are notoriously slow due to their inherent quadratic complexity,
+even when their selectivity is low, e.g., 1%. The main performance bottleneck differs
+between cases, and is due to any of the following factors or their combination: amount
+of data being shuffled, memory load on reducers, or computation load on reducers.
+We propose an ensemble-based partitioning approach that tackles all three aspects.
+In this way, we can save communication cost, we better respect the memory and computation
+limitations of reducers and overall, we reduce the total execution time. The key idea
+behind our partitioning is to cluster join key values following two techniques, namely
+matrix re-arrangement and agglomerative clustering. These techniques can run either
+in isolation or in combination. We present thorough experimental results using both
+band queries on real data and arbitrary synthetic predicates. We show that we can
+save up to 45% of the communication cost and reduce the computation load of a single
+reducer up to 50% in band queries, whereas the savings are up to 74 and 80%, respectively,
+in queries with arbitrary theta predicates. Apart from being effective, the potential
+benefits of our approach can be estimated before execution from metadata, which allows
+for informed partitioning decisions. Finally, our solutions are flexible in that they
+can account for any weighted combination of the three bottleneck factors.},
+journal = {Distrib. Parallel Databases},
+month = jun,
+pages = {301–337},
+numpages = {37},
+keywords = {Spark, Query processing, MapReduce, Theta-joins}
+}
