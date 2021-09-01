@@ -2,219 +2,219 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/talk/example-talk/</loc>
+    <loc>/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/event/</loc>
+    <loc>/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication-type/2/</loc>
+    <loc>/publication-type/2/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/data-matching/</loc>
+    <loc>/tag/data-matching/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/data-quality/</loc>
+    <loc>/tag/data-quality/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/deep-learning/</loc>
+    <loc>/tag/deep-learning/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/duplicate-detection/</loc>
+    <loc>/tag/duplicate-detection/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/entity-resolution/</loc>
+    <loc>/tag/entity-resolution/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/knowledge-transfer/</loc>
+    <loc>/tag/knowledge-transfer/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication/snndedup/</loc>
+    <loc>/publication/snndedup/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/learnt-similarity-measure/</loc>
+    <loc>/tag/learnt-similarity-measure/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication_types/</loc>
+    <loc>/publication_types/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication/</loc>
+    <loc>/publication/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/record-linkage/</loc>
+    <loc>/tag/record-linkage/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/siamese-neural-networks/</loc>
+    <loc>/tag/siamese-neural-networks/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/transfer-learning/</loc>
+    <loc>/tag/transfer-learning/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/category/demo/</loc>
+    <loc>/category/demo/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/getting-started/</loc>
+    <loc>/post/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/category/%E6%95%99%E7%A8%8B/</loc>
+    <loc>/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication-type/1/</loc>
+    <loc>/publication-type/1/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/classification/</loc>
+    <loc>/tag/classification/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/gaussian-processes/</loc>
+    <loc>/tag/gaussian-processes/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/machine-learning/</loc>
+    <loc>/tag/machine-learning/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/matching-dependencies/</loc>
+    <loc>/tag/matching-dependencies/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/mdedup/</loc>
+    <loc>/tag/mdedup/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication/mdedup/</loc>
+    <loc>/publication/mdedup/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/regression/</loc>
+    <loc>/tag/regression/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/rule-based-matching/</loc>
+    <loc>/tag/rule-based-matching/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/support-vector-machines/</loc>
+    <loc>/tag/support-vector-machines/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/svm/</loc>
+    <loc>/tag/svm/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/data-normalization/</loc>
+    <loc>/tag/data-normalization/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/data-preparation/</loc>
+    <loc>/tag/data-preparation/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication/dataprep/</loc>
+    <loc>/publication/dataprep/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/data-standardization/</loc>
+    <loc>/tag/data-standardization/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/data-wrangling/</loc>
+    <loc>/tag/data-wrangling/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/slides/</loc>
+    <loc>/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/slides/example/</loc>
+    <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/address-matching/</loc>
+    <loc>/tag/address-matching/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/address-normalization/</loc>
+    <loc>/tag/address-normalization/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication/address_matching/</loc>
+    <loc>/publication/address_matching/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/geographical-information-systems/</loc>
+    <loc>/tag/geographical-information-systems/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/gis/</loc>
+    <loc>/tag/gis/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/levenshtein/</loc>
+    <loc>/tag/levenshtein/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/random-forest/</loc>
+    <loc>/tag/random-forest/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/rf/</loc>
+    <loc>/tag/rf/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/similarity-measures/</loc>
+    <loc>/tag/similarity-measures/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/privacy/</loc>
+    <loc>/privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://example.com/terms/</loc>
+    <loc>/terms/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/apache-hadoop/</loc>
+    <loc>/tag/apache-hadoop/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/apache-spark/</loc>
+    <loc>/tag/apache-spark/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/data-engineering/</loc>
+    <loc>/tag/data-engineering/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/data-management/</loc>
+    <loc>/tag/data-management/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/databases/</loc>
+    <loc>/tag/databases/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/distributed-framework/</loc>
+    <loc>/tag/distributed-framework/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication/flexible_partitioning/</loc>
+    <loc>/publication/flexible_partitioning/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/hdfs/</loc>
+    <loc>/tag/hdfs/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/map-reduce/</loc>
+    <loc>/tag/map-reduce/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/scalability/</loc>
+    <loc>/tag/scalability/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/similarity-join/</loc>
+    <loc>/tag/similarity-join/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/theta-join/</loc>
+    <loc>/tag/theta-join/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/project/example/</loc>
+    <loc>/project/example/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/project/</loc>
+    <loc>/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication/btj/</loc>
+    <loc>/publication/btj/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/dissimilarity-recommender/</loc>
+    <loc>/tag/dissimilarity-recommender/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication/item_recommendation/</loc>
+    <loc>/publication/item_recommendation/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/item-recommendation/</loc>
+    <loc>/tag/item-recommendation/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/recommender-systems/</loc>
+    <loc>/tag/recommender-systems/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/admin/</loc>
+    <loc>/admin/</loc>
   </url>
 </urlset>

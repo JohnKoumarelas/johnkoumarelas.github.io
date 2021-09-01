@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Machine Learning | My Resume</title>
-    <link>https://example.com/tag/machine-learning/</link>
-      <atom:link href="https://example.com/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <title>Machine Learning | Ioannis Koumarelas, PhD</title>
+    <link>/tag/machine-learning/</link>
+      <atom:link href="/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Machine Learning</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Machine Learning</title>
-      <link>https://example.com/tag/machine-learning/</link>
+      <link>/tag/machine-learning/</link>
     </image>
     
     <item>
       <title>MDedup: Duplicate Detection with Matching Dependencies</title>
-      <link>https://example.com/publication/mdedup/</link>
+      <link>/publication/mdedup/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/mdedup/</guid>
+      <guid>/publication/mdedup/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -36,9 +36,9 @@
     
     <item>
       <title>Experience: Enhancing Address Matching with Geocoding and Similarity Measure Selection</title>
-      <link>https://example.com/publication/address_matching/</link>
+      <link>/publication/address_matching/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/address_matching/</guid>
+      <guid>/publication/address_matching/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

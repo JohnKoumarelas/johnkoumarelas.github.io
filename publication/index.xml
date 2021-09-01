@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | My Resume</title>
-    <link>https://example.com/publication/</link>
-      <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <title>Publications | Ioannis Koumarelas, PhD</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>https://example.com/publication/</link>
+      <link>/publication/</link>
     </image>
     
     <item>
       <title>Knowledge Transfer for Entity Resolution with Siamese Neural Networks</title>
-      <link>https://example.com/publication/snndedup/</link>
+      <link>/publication/snndedup/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/snndedup/</guid>
+      <guid>/publication/snndedup/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -36,9 +36,9 @@
     
     <item>
       <title>MDedup: Duplicate Detection with Matching Dependencies</title>
-      <link>https://example.com/publication/mdedup/</link>
+      <link>/publication/mdedup/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/mdedup/</guid>
+      <guid>/publication/mdedup/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -58,9 +58,9 @@
     
     <item>
       <title>Data Preparation for Duplicate Detection</title>
-      <link>https://example.com/publication/dataprep/</link>
+      <link>/publication/dataprep/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/dataprep/</guid>
+      <guid>/publication/dataprep/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -80,9 +80,9 @@
     
     <item>
       <title>Experience: Enhancing Address Matching with Geocoding and Similarity Measure Selection</title>
-      <link>https://example.com/publication/address_matching/</link>
+      <link>/publication/address_matching/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/address_matching/</guid>
+      <guid>/publication/address_matching/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -102,9 +102,9 @@
     
     <item>
       <title>Flexible Partitioning for Selective Binary Theta-Joins in a Massively Parallel Setting</title>
-      <link>https://example.com/publication/flexible_partitioning/</link>
+      <link>/publication/flexible_partitioning/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/flexible_partitioning/</guid>
+      <guid>/publication/flexible_partitioning/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -124,9 +124,9 @@
     
     <item>
       <title>Binary Theta-Joins using MapReduce: Efficiency Analysis and Improvements</title>
-      <link>https://example.com/publication/btj/</link>
+      <link>/publication/btj/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/btj/</guid>
+      <guid>/publication/btj/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -146,9 +146,9 @@
     
     <item>
       <title>Integrating similarity and dissimilarity notions in recommenders</title>
-      <link>https://example.com/publication/item_recommendation/</link>
+      <link>/publication/item_recommendation/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/item_recommendation/</guid>
+      <guid>/publication/item_recommendation/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
