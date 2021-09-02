@@ -1,0 +1,10 @@
+img, video {
+  /* height: auto;
+  max-width: 100%;
+  display: block; */
+  height: auto;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
