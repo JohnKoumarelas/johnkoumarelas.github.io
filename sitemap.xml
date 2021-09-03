@@ -119,6 +119,21 @@
     <loc>/tag/data-wrangling/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tag/association-rules/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/data-analytics/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/data-extraction/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/hymd/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/integration/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
@@ -185,6 +200,9 @@
     <loc>/tag/map-reduce/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tag/progressive/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tag/scalability/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -193,6 +211,18 @@
   </url><url>
     <loc>/tag/theta-join/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/progressive_er/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/financial_entities/</loc>
+    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/financial-entities/</loc>
+    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/rule-based/</loc>
+    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/project/example/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
