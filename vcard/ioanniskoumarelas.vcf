@@ -1,0 +1,23 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Koumarelas;Ioannis;;;
+FN:Ioannis Koumarelas
+ORG:Ioannis Koumarelas, PhD
+ADR;TYPE=WORK:
+TITLE:Data Scientist
+TEL;TYPE=CELL:+4917634403229
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:ioannis.koumarelas@gmail.com
+URL;TYPE=Digital Business Card:https://ioanniskoumarelas.com/vcard
+URL:https://ioanniskoumarelas.com/
+URL;TYPE=Website:https://ioanniskoumarelas.com/
+URL;TYPE=GitHub:https://github.com/ioanniskoumarelas
+URL;TYPE=PayPal:https://paypal.me/JohnKoumarelas
+URL;TYPE=Twitter:https://twitter.com/JohnKoumarelas
+URL;TYPE=LinkedIn:https://linkedin.com/ioanniskoumarelas
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100514146
+END:VCARD
